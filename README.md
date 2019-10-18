@@ -7,3 +7,13 @@ providing all buttons and terminals
 onboard power regulator to adjust around 4.2V DC.
 
 https://youtu.be/jrNvGzMAQwc
+
+
+Flyrontech FN-M16P
+http://www.flyrontech.com/eproducts/84.html
+https://github.com/rwpalmer/DFPlay
+
+DFRobot DFR-0299
+https://www.dfrobot.com/product-1121.html
+https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
+https://github.com/DFRobot/DFRobotDFPlayerMini
