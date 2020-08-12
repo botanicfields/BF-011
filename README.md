@@ -10,7 +10,8 @@
 
 ## DFPlayer Miniの電源電圧を規定の4.2Vに調整できます
 
-- 9~12Vの元電源から電圧可変三端子レギュレータで調整しています
+- 9~12Vの元電源から電圧可変三端子レギュレータで調整しています (V03)
+- 5Vの元電源から LDO（低損失レギュレータ）で調整しています（V02)
 
 ## 組立後は電子工作玩具 - 効果音再生機「ポン出し」としても使用できます。
 
@@ -25,13 +26,13 @@ https://youtu.be/jrNvGzMAQwc
 
 ## Refernece
 
-Flyrontech FN-M16P
+### Flyrontech FN-M16P
 
 http://www.flyrontech.com/eproducts/84.html
 
 https://github.com/rwpalmer/DFPlay
 
-DFRobot DFR-0299
+### DFRobot DFR-0299
 
 https://www.dfrobot.com/product-1121.html
 
