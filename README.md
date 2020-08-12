@@ -1,7 +1,4 @@
-# BF-011
-DFPlayer Mini評価ボード
-
-特徴
+# BF-011 DFPlayer Mini評価ボード
 
 ## DFPlayer Miniの説明書に記載の機能を実際に確認することができます
 -	４本の端子に接続される全22個のボタン操作
