@@ -24,13 +24,13 @@
 https://youtu.be/CGNyEPgobxE
 
 組立例
-![PCB_example](https://github.com/botanicfields/BF-011/blob/master/V03L01/PCB_example.JPG)
+![PCB_example](https://github.com/botanicfields/BF-011/blob/master/V03/PCB_example.JPG)
 
 PCB 表面
-![PCB_front](https://github.com/botanicfields/BF-011/blob/master/V03L01/PCB_front.JPG)
+![PCB_front](https://github.com/botanicfields/BF-011/blob/master/V03/PCB_front.JPG)
 
 PCB 裏面
-![PCB_back](https://github.com/botanicfields/BF-011/blob/master/V03L01/PCB_back.JPG)
+![PCB_back](https://github.com/botanicfields/BF-011/blob/master/V03/PCB_back.JPG)
 
 ## Refernece
 
