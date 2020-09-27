@@ -20,9 +20,17 @@
 -	小型スピーカーを搭載し、ボード単体で音を出せます
 -	3.5mm ミニプラグにイヤホン、パワーアンプ内蔵スピーカー(PCスピーカー)等を接続してステレオ再生ができます
 
-動作例: 
-https://youtu.be/jrNvGzMAQwc
+PCB 表面
+!(https://github.com/botanicfields/BF-011/blob/master/V03L01/PCB_front.JPG)
 
+PCB 裏面
+!(https://github.com/botanicfields/BF-011/blob/master/V03L01/PCB_back.JPG)
+
+組立例
+!(https://github.com/botanicfields/BF-011/blob/master/V03L01/PCB_example.JPG)
+
+動作例: 
+https://youtu.be/CGNyEPgobxE
 
 ## Refernece
 
