@@ -32,7 +32,7 @@ PCB 表面
 PCB 裏面
 ![PCB_back](https://github.com/botanicfields/BF-011/blob/master/V03/PCB_back.JPG)
 
-## Refernece
+## Reference
 
 ### Flyrontech FN-M16P
 
