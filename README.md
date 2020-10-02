@@ -1,4 +1,4 @@
-# DFPlayer Mini 評価ボード
+# DFPlayer Mini 用評価基板
 
 ## DFPlayer Mini の説明書に記載の機能を実際に確認することができます
 -	4 本の端子に接続される全 22 個のボタン操作
