@@ -23,6 +23,9 @@
 動作例: 
 https://youtu.be/CGNyEPgobxE
 
+AkiCart:
+https://aki.prioris.jp/list/f86bf4dc-9261-4136-bd5b-ebdaeebd8741/
+
 組立例
 ![PCB_example](https://github.com/botanicfields/BF-011/blob/master/V03/PCB_example.JPG)
 
