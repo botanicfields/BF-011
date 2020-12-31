@@ -41,6 +41,10 @@ PCB 裏面
 
 http://www.flyrontech.com/eproducts/84.html
 
+http://www.flyrontech.com/uploadfile/download/20184121510393726.pdf
+
+https://docs.google.com/document/d/1sbZnzhrAAXFYlKePREef-rD63molaLCEJMT4LRoT2So/edit
+
 https://github.com/rwpalmer/DFPlay
 
 ### DFRobot DFR-0299
